@@ -1,0 +1,36 @@
+# Site settings
+title: JBullrich Games
+subtitle: A collection of my games
+email: javierbullrich@gmail.com
+description: A blog where you can try my games.
+baseurl: "/games" # the subpath of your site, e.g. /blog
+url: "bullrich.github.io" # the base hostname & protocol for your site
+author:
+street_address: Juncal
+city: Buenos Aires
+state: Capital Federal
+zip_code: 1062
+country: Argentina
+images: /assets/images/
+
+# Homepage tiles
+tiles-source: posts # accepts "posts" or "pages"
+tiles-count: 6
+
+# Social settings
+500px_url:
+facebook_url:
+github_url: https://github.com/Bullrich
+gitlab_url: 
+googleplus_url: 
+instagram_url: 
+linkedin_url: https://ar.linkedin.com/in/javibullrich/en
+pinterest_url:
+slack_url:
+twitter_url: 
+
+# Build settings
+markdown: kramdown
+
+sass:
+  style: compressed
