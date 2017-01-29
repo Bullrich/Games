@@ -3,8 +3,8 @@ title: JBullrich Games
 subtitle: A collection of my games
 email: javierbullrich@gmail.com
 description: A blog where you can try my games.
-baseurl: "/games" # the subpath of your site, e.g. /blog
-url: "bullrich.github.io" # the base hostname & protocol for your site
+baseurl: "/Games" # the subpath of your site, e.g. /blog
+url: "https://bullrich.github.io/" # the base hostname & protocol for your site
 author:
 street_address: Juncal
 city: Buenos Aires
