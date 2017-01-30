@@ -97,4 +97,4 @@ The main menu is an asset in which I'm currently working, so I decided to use it
 This asset also brings a pause menu which use the inputs loaded from the Main Menu Scene, so if this asset is used without passing through the other scene it may not work.
 It simply pause the game setting Unity's Time Scale to 0. It have two buttons, one for continuing the game and another to go back to the main menu's scene.
 
-[Read it's code](https://github.com/Bullrich/Asteroid-Invader)
+[Read it's code](https://github.com/Bullrich/Candy-Invaders)
